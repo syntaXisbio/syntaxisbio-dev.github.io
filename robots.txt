@@ -1,0 +1,4 @@
+# Prevent search engines from indexing the development site
+
+User-agent: *
+Disallow: /
